@@ -1,0 +1,402 @@
+[{
+  "idQuestion":1,
+  "question":"Cum veţi proceda dacă intenţionaţi să schimbaţi direcţia de mers spre dreapta?",
+  "answers": [
+              " A. semnalizaţi schimbarea direcţiei de mers; pietonii vă vor acorda prioritate;",
+              " B. semnalizaţi schimbarea direcţiei de mers; acordaţi prioritate vehiculelor care circulă din partea stângă;",
+              " C. semnalizaţi schimbarea direcţiei de mers şi acordaţi prioritate de trecere pietonilor;"
+  ],
+  "correctAnswers":["C"]
+},
+  {
+    "idQuestion":2,
+    "question":"Ce tendinţă prezintă un autoturism cu tracţiune pe spate, dacă acceleraţi prea puternic în curbă?",
+    "answers": [
+                "A. autoturismul urmează, fără deviere, cursa volanului;",
+                "B. autoturismul tinde să derapeze cu spatele spre exteriorul curbei;",
+                "C. roţile din faţă se învârtesc în gol;"
+                ],
+    "correctAnswers":["B"]
+  },
+  {
+    "idQuestion":3,
+    "question":"Ce obligaţii are conducătorul de autovehicule când circulă pe un drum public?",
+    "answers": [
+                "A. să circule numai dacă verificarea medicală lunară este efectuată;",
+                "B. să circule numai pe sectoarele de drum pe care îi este permis accesul şi să respecte normele referitoare la masele totale maxime autorizate admise de autoritatea competentă;",
+                "C. să se informeze din timp, la administratorii de drum, în legătură cu eventualele limite maxime şi minime de viteză;"
+                ],
+    "correctAnswers":["B"]
+  },
+  {
+    "idQuestion":4,
+    "question":"Ce se înţelege prin conducere ecologică a unui autovehicul?",
+    "answers": [
+                "A. obligaţia de a folosi în permanenţă carburant biodegradabil; ",
+                "B. deplasări urbane cu bicicleta, pe jos sau cu alte mijloace care nu poluează atmosfera;",
+                "C. un ansamblu de măsuri comportamentale, de control sau de verificare a vehiculului, prin care se realizează o importantă economie de energie şi protecţia mediului;"
+                ],
+    "correctAnswers":["C"]
+  },
+  {
+    "idQuestion":5,
+    "question":"În rănile cu hemoragie se va avea în vedere, în faza iniţială:",
+    "answers": [
+                "A. curăţarea şi pansarea rănii;",
+                "B. pansarea rănii;",
+                "C. oprirea hemoragiei;"
+                ],
+    "correctAnswers":["C"]
+  },
+  {
+    "idQuestion":6,
+    "question":"La semnalul poliţistului situat într-o intersecţie, cu braţul ridicat vertical, aveţi obligaţia:",
+    "answers": [
+                "A. să circulaţi cu prudenţă maximă;",
+                "B. să reduceţi viteza;",
+                "C. să opriţi, indiferent din ce direcţie circulaţi;"
+                ],
+    "correctAnswers":["C"]
+  },
+  {
+    "idQuestion":7,
+    "question":"Care este deosebirea dintre oprire şi staţionare?",
+    "answers": [
+                "A. niciuna;",
+                "B. deosebirea constă în durata de imobilizare a vehiculului;",
+                "C. deosebirea constă în modul de aşezare şi asigurare a autovehiculului pe drum;"
+                ],
+    "correctAnswers":["B"]
+  },
+  {
+    "idQuestion":8,
+    "question":"Ce obligaţii vă revin la semnalul agentului de cale ferată de la trecerile la nivel, executat cu un dispozitiv cu lumină roşie ori cu bastonul fluorescent-reflectorizant?",
+    "answers": [
+      "A. să reduceţi viteza doar până traversaţi calea ferată;",
+      "B. să opriţi autovehiculul;",
+      "C. să reduceţi viteza şi să opriţi numai dacă circulă un vehicul feroviar; "
+    ],
+    "correctAnswers":["B"]
+  },
+  {
+    "idQuestion":9,
+    "question":"La apropierea de staţiile prevăzute cu alveolă, când circulaţi pe banda de lângă acostament, iar conducătorul autovehiculului de transport public de persoane semnalizează pornirea din staţie:",
+    "answers": [
+      "A. opriţi obligatoriu;",
+      "B. reduceţi viteza şi, la nevoie, opriţi;",
+      "C. măriţi viteza; "
+        ],
+    "correctAnswers":["B"]
+  },
+  {
+    "idQuestion":10,
+    "question":"Pe o autostradă cu trei benzi, s-a blocat circulaţia. Pe unde vor circula vehiculele de intervenţie?",
+    "answers": [
+      "A. pe banda de urgenţă;",
+      "B. între banda din stânga şi banda din mijloc;",
+      "C. între banda din dreapta şi banda din mijloc;"
+    ],
+    "correctAnswers":["A"]
+  },
+  {
+    "idQuestion":11,
+    "question":"Utilizarea sistemului de climatizare are ca efect:",
+    "answers": [
+      "A. creşterea consumului de combustibil;",
+      "B. reducerea consumului de combustibil;",
+      "C. scăderea puternică a gradului de confort;"
+    ],
+    "correctAnswers":["A"]
+  },
+  {
+    "idQuestion":12,
+    "question":"Pentru a conduce ecologic un autovehicul, se recomandă:",
+    "answers": [
+      "A. utilizarea climatizării numai în cazul traseelor scurte;",
+      "B. utilizarea climatizării numai pe timp de noapte;",
+      "C. utilizarea climatizării numai în situaţiile absolut necesare;"
+    ],
+    "correctAnswers":["C"]
+  },
+  {
+    "idQuestion":13,
+    "question":"Dacă rămâneţi în pană într-un tunel:",
+    "answers": [
+      "A. opriţi funcţionarea motorului;",
+      "B. motorul trebuie să funcţioneze, pentru a putea folosi luminile de avarie;",
+      "C. închideţi autovehiculul şi vă îndepărtaţi de acesta."
+    ],
+    "correctAnswers":["A"]
+  },
+  {
+    "idQuestion":14,
+    "question":"Câte corpuri de iluminat are semaforul care se adresează pietonilor și bicicliștilor?",
+    "answers": [
+      "A. două corpuri;",
+      "B. trei corpuri;",
+      "C. patru corpuri."
+    ],
+    "correctAnswers":["A"]
+  },
+  {
+    "idQuestion":15,
+    "question":"Ce obligații vă revin la executarea manevrei de trecere a vehiculului de pe o bandă pe alta?",
+    "answers": [
+      "A. să semnalizați din timp și să vă asigurați că puteți efectua manevra fără a perturba circulația sau fără a pune în pericol siguranța celorlalți participanți la trafic;",
+      "B. să vă asigurați din spate;",
+      "C. să vă asigurați din față și din spate."
+    ],
+    "correctAnswers":["A"]
+  },
+  {
+    "idQuestion":16,
+    "question":"Ce se înțelege prin distanța de 100 m pentru semnalizarea schimbării direcției de mers în afara localității?",
+    "answers": [
+      "A. distanța față de vehiculul care circulă din spate;",
+      "B. distanța parcursă din momentul semnalizării intenției de a efectua manevra și locul unde se produce schimbarea direcției de mers;",
+      "C. distanța față de locul terminării manevrei de depășire."
+    ],
+    "correctAnswers":["B"]
+  },
+  {
+    "idQuestion":17,
+    "question":"Ce trebuie să facă un conducător de vehicul pentru ca depășirea să fie considerată regulamentară?",
+    "answers": [
+      "A. să se asigure că manevra poate fi executată în condiții de siguranță, după care să semnalizeze intenția de schimbare a poziției de mers și să efectueze depășirea;",
+      "B. să semnalizeze din timp intenția de schimbare a direcției de mers;",
+      "C. să mărească viteza de deplasare, astfel încât să scurteze timpul de realizare a depășirii."
+      ],
+    "correctAnswers":["A"]
+  },
+  {
+    "idQuestion":18,
+    "question":"Limita maximă de viteză pe care administratorul drumului public o poate stabili pe anumite sectoare, din interiorul localităţilor, pentru autovehiculele din categoriile A şi B, nu poate fi mai mare de:",
+    "answers": [
+      "A. 50 km/h;",
+      "B. 80 km/h;",
+      "C. 110 km/h;."
+    ],
+    "correctAnswers":["B"]
+  },
+  {
+    "idQuestion":19,
+    "question":"Dacă, din motive obiective, vă deplasaţi cu viteză redusă, trebuie:",
+    "answers": [
+      "A. să circulaţi numai pe banda de lângă acostament sau bordură;",
+      "B. să circulaţi numai pe banda de lângă axul drumului, semnalizând cu luminile de avarie;",
+      "C. să emiteţi semnale luminoase şi sonore, pentru a preveni orice posibil eveniment."
+    ],
+    "correctAnswers":["A"]
+  },
+  {
+    "idQuestion":20,
+    "question":"Precizați în care situație vehiculele enumerate mai jos au prioritate de trecere:",
+    "answers": [
+      "A. vehiculele aflate în sensul giratoriu, față de cele care se pregătesc să intre în sensul giratoriu;",
+      "B. autovehiculele din serviciile regulate de transport public, care se pun în mișcare din stație;",
+      "C. vehiculele care execută manevra de întoarcere."
+    ],
+    "correctAnswers":["A"]
+  },
+  {
+    "idQuestion":21,
+    "question":"Conducătorii de vehicule trebuie să respecte regulile de circulație, generale și particulare, în următoarea ordine:",
+    "answers": [
+      "A. semnalele, indicațiile și dispozițiile polițistului rutier; semnalele speciale de avertizare, luminoase sau sonore, ale autovehiculelor cu regim de circulație prioritară; semnalizarea temporară;",
+      "B. semnalele, indicațiile și dispozițiile polițistului rutier; semnalizarea temporară; semnalele speciale de avertizare, luminoase sau sonore, ale autovehiculelor cu regim de circulație prioritară;",
+      "C. semnalele speciale de avertizare, luminoase sau sonore, ale autovehiculelor cu regim de circulație prioritară; semnalele, indicațiile și dispozițiile polițistului rutier; semnalizarea temporară."
+    ],
+    "correctAnswers":["A"]
+  },
+  {
+    "idQuestion":22,
+    "question":"La trecerea autovehiculelor cu regim de circulaţie prioritar, care au în funcţiune mijloacele de avertizare sonoră şi luminoasă de culoare albastră, sunteţi obligat:",
+    "answers": [
+      "A. să reduceţi viteza;",
+      "B. să circulaţi cât mai aproape de marginea drumului în sensul de deplasare;",
+      "C. să acordaţi prioritate de trecere."
+    ],
+    "correctAnswers":["A","B","C"]
+  },
+  {
+    "idQuestion":23,
+    "question":"Pentru care dintre situaţiile de mai jos se dispune reţinerea permisului de conducere?",
+    "answers": [
+      "A. pentru neacordarea priorităţii de trecere;",
+      "B. permisul de conducere este deteriorat;",
+      "C. permisul de conducere prezintă modificări, ştersături sau adăugiri."
+    ],
+    "correctAnswers":["B"]
+  },
+  {
+    "idQuestion":24,
+    "question":"Când se recomandă să opriţi motorul pentru a reduce consumul de combustibil?",
+    "answers": [
+      "A. în cazul unei opriri lungi la o trecere la nivel cu calea ferată;",
+      "B. la culoarea roşie a unui semafor care, de regulă, durează foarte mult;",
+      "C. la semnalul poliţistului rutier făcut în acest sens."
+    ],
+    "correctAnswers":["A","B"]
+  },
+  {
+    "idQuestion":25,
+    "question":"La întâlnirea cărui indicator conducătorul auto nu are prioritate de trecere?",
+    "answers": [
+      "A. „Prioritate pentru circulaţia din sens invers”;",
+      "B. „Prioritate faţă de circulaţia din sens invers”;",
+      "C. „Drum cu prioritate”."
+    ],
+    "correctAnswers":["A"]
+  },
+  {
+    "idQuestion":26,
+    "question":"Ce vehicule au voie să pătrundă în intersecție la culoarea roșie a semaforului?",
+    "answers": [
+      "A. niciun vehicul, cu excepția celor destinate stingerii incendiilor, ale ambulanței și ale poliției, când se deplasează în acțiuni de intervenție sau în misiuni care impun urgență;",
+      "B. autovehiculele care virează la stânga;",
+      "C. autovehiculele poliției și cele care execută virajul la stânga."
+    ],
+    "correctAnswers":["A"]
+  },
+  {
+    "idQuestion":27,
+    "question":"În timp ce conduceţi un autoturism, aveţi voie să efectuaţi manevra de depăşire a unui autobuz oprit în staţie pentru urcarea şi coborârea călătorilor?",
+    "answers": [
+      "A. da;",
+      "B. da, numai dacă lăţimea drumului public este mai mare de 6 m;",
+      "C. nu, în acest caz depăşirea este interzisă."
+    ],
+    "correctAnswers":["A"]
+  },
+  {
+    "idQuestion":28,
+    "question":"Cu ce viteză se poate circula în apropierea unei intersecţii?",
+    "answers": [
+      "A. limita maximă de viteză va fi respectată doar în cazul intersecţiilor dirijate;",
+      "B. cu o viteză care să permită oprirea, pentru a acorda prioritate de trecere participanţilor la trafic care au acest drept;",
+      "C. limita maximă de viteză în localităţi va fi de 50 km/h, iar în afara localităţilor de 130 km/h."
+    ],
+    "correctAnswers":["B"]
+  },
+  {
+    "idQuestion":29,
+    "question":"Circulați în spatele unui autobuz și vă apropiați de o intersecție semnalizată cu indicatorul „Oprire“. Cum veți proceda în această situație pentru a traversa în siguranță intersecția?",
+    "answers": [
+      "A. vă continuați deplasarea, traversând intersecția o dată cu autobuzul, în cazul în care conducătorul acestuia a oprit și s-a asigurat că prin intersecție nu circulă alte vehicule;",
+      "B. vă opriți în dreptul indicatorului, după care vă continuați drumul întrucât, dacă a trecut autobuzul, nu sunt pericole;",
+      "C. vă opriți în locul în care aveți vizibilitate maximă și vă asigurați, chiar dacă în același mod a procedat și conducătorul autobuzului."
+    ],
+    "correctAnswers":["C"]
+  },
+  {
+    "idQuestion":30,
+    "question":"Precizaţi în care dintre situaţiile de mai jos este interzisă depăşirea:",
+    "answers": [
+      "A. la coborârile a căror pantă depăşeşte 10%;",
+      "B. pe trecerile pentru pietoni sau pe cele la nivel cu calea ferată curentă şi la mai puţin de 50 m de acestea;",
+      "C. în situaţia în care, din sens opus, un vehicul este nevoit să execute o manevră, pentru a evita coliziunea."
+    ],
+    "correctAnswers":["B", "C"]
+  },
+  {
+    "idQuestion":31,
+    "question":"Oprirea este interzisă:",
+    "answers": [
+      "A. la mai puţin de 25 m de colţul unei intersecţii;",
+      "B. în zona de acţiune a indicatorului „Staţionarea interzisă“;",
+      "C. în curbe şi pe sectoarele de drum cu vizibilitate redusă sub 50 m."
+    ],
+    "correctAnswers":["A", "C"]
+  },
+  {
+    "idQuestion":32,
+    "question":"Remorcarea unui autoturism rămas în pană se face cu:",
+    "answers": [
+      "A. o legătură flexibilă omologată, în lungime de 3-5 m, dacă mecanismul de direcţie şi sistemul de frânare nu sunt defecte;",
+      "B. o bară rigidă, lungă de maximum 4 m;",
+      "C. o bară metalică, însoţită de un lanţ de siguranţă."
+    ],
+    "correctAnswers":["A", "B"]
+  },
+  {
+    "idQuestion":33,
+    "question":"Luminile de poziție se folosesc, pe timp de zi, atunci când vehiculul este oprit:",
+    "answers": [
+                " A. pentru urcarea sau coborârea pasagerilor;",
+                " B. din cauza unor avarii;",
+                " C. pentru că vizibilitatea este redusă."
+                ],
+    "correctAnswers":["C"]
+  },
+  {
+    "idQuestion":34,
+    "question":"La intersecția nedirijată dintre un drum național și unul județean, comunal sau local, prioritatea de trecere se acordă:",
+    "answers": [
+              "A. vehiculelor care circulă pe drumul județean, comunal sau local;",
+              "B. vehiculelor care vin din dreapta;",
+              "C. vehiculelor care circulă pe drumul național."
+              ],
+    "correctAnswers":["C"]
+  },
+  {
+    "idQuestion":35,
+    "question":"Semaforul instalat pe trotuar are în funcțiune semnalul roșu, iar cel suspendat, pentru direcția de mers la stânga, semnalul verde. Conducătorul de vehicul care dorește să meargă înainte are dreptul să intre în intersecție?",
+    "answers": [
+                "A. da, deoarece semaforul suspendat are semnalul verde în funcțiune;",
+                "B. nu, deoarece semaforul de pe trotuar, care i se adresează, are semnalul roșu în funcțiune;",
+                "C. nu, deoarece deplasarea pe direcția înainte este permisă numai atunci când semnalul verde este în funcțiune la ambele semafoare."
+                ],
+    "correctAnswers":["B"]
+  },
+  {
+    "idQuestion":36,
+    "question":"Cum trebuie să procedeze corect conducătorul de vehicul, pentru a trece de pe banda întâi a unui drum public pe banda a treia?",
+    "answers": [
+              "A. obligaţia de a folosi în permanenţă carburant biodegradabil; ",
+              "B. deplasări urbane cu bicicleta, pe jos sau cu alte mijloace care nu poluează atmosfera;",
+              "C. un ansamblu de măsuri comportamentale, de control sau de verificare a vehiculului, prin care se realizează o importantă economie de energie şi protecţia mediului;"
+              ],
+    "correctAnswers":["C"]
+  },
+  {
+    "idQuestion":37,
+    "question":"Din ce direcție trebuie să se asigure un conducător auto, înainte de a trece la efectuarea unei depășiri?",
+    "answers": [
+              "A. din față;",
+              "B. din spate;",
+              "C. atât din față, cât și din spate."
+              ],
+    "correctAnswers":["C"]
+  },
+  {
+    "idQuestion":38,
+    "question":"La semnalul poliţistului situat într-o intersecţie, cu braţul ridicat vertical, aveţi obligaţia:",
+    "answers": [
+                "A. să circulaţi cu prudenţă maximă;",
+                "B. să reduceţi viteza;",
+                "C. să opriţi, indiferent din ce direcţie circulaţi;"
+              ],
+    "correctAnswers":["C"]
+  },
+  {
+    "idQuestion":39,
+    "question":"În care dintre situațiile prezentate este interzisă depășirea vehiculelor pe drumurile publice?",
+    "answers": [
+                "A.la întâlnirea indicatorului „Circulație în ambele sensuri“;",
+                "B. la o distanță mai mică de 50 m de stația de tramvai, când acesta este oprit;",
+                "C. la trecerile pentru pietoni prevăzute cu indicatoare și marcaje."
+              ],
+    "correctAnswers":["C"]
+  },
+  {
+    "idQuestion":40,
+    "question":"Viteza maximă cu care pot să conducă un autoturism, pe autostradă, persoanele care au mai puţin de un an de practică de conducere, este de:",
+    "answers": [
+                "A. 130 km/h;",
+                "B. 100 km/h;",
+                "C. 110 km/h."
+                ],
+    "correctAnswers":["C"]
+  }
+
+]
